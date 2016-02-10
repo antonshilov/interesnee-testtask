@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="message_no_places">No places to show</string>
+    <string name="description_image_edit_place">Place image</string>
+    <string name="place_text">Text</string>
+    <string name="last_visited">Last Visited</string>
+    <string name="latitude">Latitude</string>
+    <string name="error_empty_text">Fill Text field.</string>
+    <string name="error_empty_date">Select date.</string>
+    <string name="error_empty_location">Select location.</string>
+    <string name="location_placeholder">53.154324, 29.232074</string>
+    <string name="last_visited_placeholder">02.11.2016</string>
+    <string name="map">Map</string>
+    <string name="api_key_maps" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAZWdUwI9Qp1Xz_tSdBDmuIgUAahHXKO5U
+    </string>
+    <string name="longitude">Longitude</string>
+</resources>

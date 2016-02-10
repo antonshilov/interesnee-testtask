@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="places_item_padding">5dp</dimen>
+    <dimen name="text_body">20sp</dimen>
+    <dimen name="text_small_body">15sp</dimen>
+    <dimen name="place_image_medium">75dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height_big">192dp</dimen>
+    <dimen name="image_edit_height">200dp</dimen>
+    <dimen name="edit_text_margin">16dp</dimen>
+</resources>
