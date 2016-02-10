@@ -3,6 +3,6 @@
 
 #  Code Quality
 
-To run code quality check(Checkstyle, Fingbugs, PMD, Androi Lint and Unit tests):
+To run code quality check(Checkstyle, Fingbugs, PMD, Android Lint and Unit tests):
 
 `./gradlew check`
